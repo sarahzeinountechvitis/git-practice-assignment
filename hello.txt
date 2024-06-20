@@ -1,0 +1,1 @@
+Hello, you just created a text file in your local copy of a git repository
